@@ -15,12 +15,15 @@
 ### 🌐 Web Technologies
 - HTML
 - CSS
+- JS
+- SQL
 
 ### 🤖 Python Libraries & Tools
 - **Selenium** – Web automation & testing  
 - **BeautifulSoup (bs4)** – Web scraping & HTML parsing  
 - **Requests** – HTTP requests & API handling  
-- **OS Module** – File system & environment management  
+- **OS Module** – File system & environment management
+- **sympy Module** – symbolic mathematics
 
 ---
 
